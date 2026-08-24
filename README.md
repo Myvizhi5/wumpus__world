@@ -1,6 +1,6 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name: M Reshika </h3>
-<h3>Register Number/Staff Id: 212224220079 </h3>
+<h3>Name: MYVIZHI S </h3>
+<h3>Register Number/Staff Id: 212224040209 </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
